@@ -12,8 +12,9 @@
 .body{
 	width:100%;
 }
-.html{
+html{
     scroll-behavior: smooth;
+    overflow-x:hidden;
 }
 .a{
     text-decoration: none;
