@@ -10,8 +10,6 @@
     padding: 0;
     display:border-box;
 }
-
-
 html{
     scroll-behavior: smooth;
     overflow-x: hidden;
@@ -89,7 +87,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 28px;
-
 color: #31046B;
 
 }
@@ -104,7 +101,6 @@ font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 28px;
-
 color: #31046B;
 
 }
